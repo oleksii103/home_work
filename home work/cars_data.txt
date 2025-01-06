@@ -1,0 +1,3 @@
+mustang,2016,50,5000
+lamborgini,1967,60,1e+06
+ferarri,1970,49,50000
